@@ -1,7 +1,7 @@
 # COSMIC VOYAGER 🚀
 
 **Turn-based console adventure game written in C++.**  
-Final project for university course — Developed using modular structure and CMake.
+Project for BIL142 - C++ Programming course — Developed using modular structure and CMake.
 
 ## 🎮 Gameplay Demo
 Watch the game in action on YouTube:  
