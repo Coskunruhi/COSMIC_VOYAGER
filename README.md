@@ -5,7 +5,7 @@ Final project for university course — Developed using modular structure and CM
 
 ## 🎮 Gameplay Demo
 Watch the game in action on YouTube:  
-📺 [COSMIC VOYAGER – Gameplay Demo]([https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/acUWTnehirk))
+📺 [COSMIC VOYAGER – Gameplay Demo](https://youtu.be/acUWTnehirk)
 
 ## 🧩 Features
 - Modular design with `.cpp` and `.h` files
